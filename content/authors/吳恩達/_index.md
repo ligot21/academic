@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Sun Zhi-Jun 孙志军
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Sun
+last_name: Zhi-Jun
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 孙志军
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Oral and Maxillofacial Surgery
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Wuhan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include oral oncology, cancer immunology and nanomedicine.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Oral Oncology
+  - Cancer Immunology
+  - Nanomedicine
 
 education:
   courses:
